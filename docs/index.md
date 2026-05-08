@@ -1,1 +1,1 @@
-# IMP Sigil
+# IMPerial Sigil
