@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div id="age-gate" class="age-gate" aria-hidden="false">
+    <div class="age-gate__box" role="dialog" aria-modal="true" aria-labelledby="age-gate-title">
+      <h1 id="age-gate-title">Treść dla osób pełnoletnich</h1>
+
+      <p>
+        Ta strona zawiera dokumentację dotyczącą dobrowolnej relacji BDSM / TPE.
+        Materiał jest przeznaczony wyłącznie dla osób pełnoletnich.
+      </p>
+
+      <p>
+        Wchodząc dalej potwierdzasz, że masz ukończone 18 lat oraz rozumiesz
+        kontekst dobrowolnych relacji między dorosłymi.
+      </p>
+
+      <div class="age-gate__actions">
+        <button id="age-gate-accept" class="age-gate__button age-gate__button--primary">
+          Mam ukończone 18 lat
+        </button>
+
+        <button id="age-gate-reject" class="age-gate__button">
+          Opuść stronę
+        </button>
+      </div>
+    </div>
+  </div>
+
+  {{ super() }}
+{% endblock %}
+
