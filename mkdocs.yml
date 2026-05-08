@@ -22,12 +22,24 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - search.suggest
     - search.highlight
     - search.suggest
     - content.code.copy
 
 nav:
   - Home: index.md
+
+plugins:
+  - search
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/gitlab
+      link: https://fetlife.com/I-M-P
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/users/694867336179613756
 
 markdown_extensions:
   - admonition
