@@ -31,8 +31,9 @@ theme:
 nav:
   - Home: index.md
   - Pozycje: pozycje.md
-  # - House of IMP:
-    # - Rejestr: log.md
+  - House of IMP:
+    - Zasady Domu: manifest.md
+    - Rejestr: log.md
 
 plugins:
   - search
