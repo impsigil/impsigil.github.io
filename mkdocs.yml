@@ -34,6 +34,7 @@ nav:
   - House of IMP:
     - Zasady Domu: manifest.md
     - Rejestr: log.md
+    - Archiwalia: archiwum.md
 
 plugins:
   - search
