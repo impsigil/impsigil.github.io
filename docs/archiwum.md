@@ -13,9 +13,9 @@ Czy są wszystkie najlepsze? Też jeszcze nie!
 
 ## Świadome posłuszeństwo
 
-> – Czy chcesz żeby Twoja uległa była Ci bezgranicznie posłuszna?
+> - Czy chcesz żeby Twoja uległa była Ci bezgranicznie posłuszna?
 >
-> – Przede wszystkim chcę żeby była świadoma swojego posłuszeństwa, granicę będę przesuwał z czasem!
+> - Przede wszystkim chcę żeby była świadoma swojego posłuszeństwa, granicę będę przesuwał z czasem!
 
 A Wy jakiego posłuszeństwa oczekujecie od swoich uległych?
 
@@ -35,7 +35,9 @@ Jeśli chodzi o bezpieczeństwo w oddawaniu się komuś to sednem posłuszeństw
 
 *Opublikowane: 10/05/2022 [źródło](https://obroza.wordpress.com/2022/05/10/swiadome-posluszenstwo/#more-572)*
 
-## Kōkyō 公共 – Społeczność
+---
+
+## Kōkyō 公共 - Społeczność
 
 !!! info
     Poniższy tekst ma oryginalną treść z 10/03/2021, obecnie temat ewoluował, aktualne informacje można znaleźć w pozostałych sekcjach.
@@ -62,6 +64,35 @@ Określenie “kontrakt” w stosunku do kontraktów dominujących i uległych, 
 
 *Opublikowane: 10/03/2021 [źródło](https://obroza.wordpress.com/2021/03/10/kokyo-%e5%85%ac%e5%85%b1-spolecznosc/#more-557)*
 
+---
+
+## BDSM dō
+
+Filozofia wschodu jest ze mną, tak jak i BDSM odkąd tylko pamiętam. Zawsze widziałem w nich wiele elementów wspólnych, przynajmniej w takim podejściu do BDSM jakie sam reprezentuje. Dlatego też od pewnego czasu chodziło mi po głowie połączenie tych dwóch tematów w jeden, o czym pisałem już półtora roku temu na blogu. Same podstawy swojej filozofii spisałem praktycznie zaraz po publikacji tamtej notki, zwlekałem jednak z opublikowaniem tego. Teraz już bez dalszych wstępów….
+
+### BDSM dō ビーディーエスエム 道
+
+BDSM dō - jest filozofią (podejściem do) BDSM łączącą klasyczne podejście BDSM oparte na relacjach własności i posłuszeństwa z elementami filozofii wschodu, przede wszystkim z japońskim dō (drogą do doskonalenia). 
+
+Droga - jap. dō, chińs. tao (dao) - którą kroczy się całe życie, jako symbolu niekończącego się procesu dążenia do doskonałości.
+
+1. Mistrz - Każdy posiada mistrza / Jest jeden mistrz.
+2. Droga - Kroczenie drogą jest dobrowolne.
+3. Bezpieczeństwo - Safeword jest potwierdzeniem dobrowolności.
+4. Posłuszeństwo - (Poza tym) Obowiązuje bezwzględne posłuszeństwo mistrzowi.
+5. Spełnienie - Kroczenie drogą ma na celu spełnienie.
+6. Doskonalenie - Celem mistrza jest rozwój (doskonalenie) uległej.
+7. Satysfakcja - Celem uległej jest satysfakcja mistrza.
+8. Szacunek - Każdemu należy się szacunek wynikający z pozycji.
+9. Zaufanie - Zaufanie jest podstawą funkcjonowania stada.
+10. Otwartość - BDSM dō nie przeszkadza żadnym fetyszom ani praktykom które mogą być realizowane.
+
+Krótkie? Tak, im krótsze tym lepiej ma zawierać wszystko co potrzeba ale nic więcej. Ciekaw jestem Waszej opinii.
+
+*Opublikowane: 07/02/2021 [źródło](https://obroza.wordpress.com/2021/02/07/bdsm-do)*
+
+---
+
 ## Droga
 
 Niedawno wróciłem do myślenia o koncepcji sprzed lat…
@@ -75,6 +106,8 @@ Czas wrócić na swoją drogę.
 Może to krótka ale bardzo ważna myśl. Mam nadzieję znaleźć czas żeby opisać ją bardziej.
 
 *Opublikowane: 20/09/2019 [źródło](https://obroza.wordpress.com/2019/09/20/droga/)*
+
+---
 
 ## Zadbaj o bezpieczeństwo
 
@@ -90,6 +123,8 @@ Postanowiłem też poszukać moich wpisów dotyczących bezpieczeństwa i pomimo
 Myślałem również, że napisałem coś podobnego jak uwazna jednak nie mogę tego znaleźć. Jako, że bezpieczeństwo w BDSM jest ważne postanowiłem wszystkie wpisy z nim związane tagować #bezpieczeństwo
 
 *Opublikowano: 19/04/2019 [żródło](https://obroza.wordpress.com/2019/04/19/zadbaj-o-bezpieczenstwo/)*
+
+---
 
 ## Ogół czy szczegół?
 
@@ -115,8 +150,160 @@ Pomimo różnorodności i wyjątkowości bez wprowadzenia jakiegoś ustandaryzow
 
 *Opublikowane: 22/03/2019 [źródło](https://obroza.wordpress.com/2019/03/22/ogol-czy-szczegol/#more-465)*
 
+---
+
+## Dumna
+
+Wiele się zawsze mówi o tym, że uległa powinna być dumna z bycia uległą…
+
+Tak ale co to właściwie znaczy? W większości przypadków mamy na myśli to, że uległa nie powinna się wstydzić tego kim jest. Powinna być dumna z tego, że potrafi wyjść poza pewne ramy i stać się tym kim większość nie potrafi. Ma być dumna, że realizuje swoje pragnienia, marzenia. Powinna być dumna, że jest uległą swojego pana…
+
+Właśnie, dumna z tego że jest czyjąś uległą, kiedy można być dumny z przynależności? Tylko wtedy gdy w naszych oczach ta przynależność znaczy dużo, czyli musi być dużo warta specjalna. Kiedy taka będzie? Wtedy gdy ta osoba jest wyjątkowa, specjalna. Uległa darzy taką osobę szacunkiem i respektuje z radością dominacje tej osoby.
+
+Bądźmy takimi masterami, żebyśmy mogli być z siebie dumni. Żeby nasze uległe były dumne z nas, z tego że są naszymi uległymi.
+
+*Opublikowane: 10/11/2018 [źródło](https://obroza.wordpress.com/2018/11/10/dumna/)*
+
+---
+
+## BDSM Test
+
+Nie wiem czy wszyscy to znają, dlatego warto o tym wspomnieć. Jeśli chcecie sprawdzić swoje klimatyczne preferencje w teście wystarczy wejść na http://bdsmtest.org/
+ 
+Oczywiście ja byłem, zrobiłem i pochwalę się swoimi wynikami:
+
+- 99% Dominant
+- 99% Owner
+- 99% Master/Mistress
+- 96% Rigger
+- 94% Degrader
+- 92% Brat Tamer
+- 86% Primal (Hunter)
+- 83% Daddy/Mommy
+- 82% Voyeur
+- 76% Sadist
+- 66% Non-monogamist
+- 62% Experimentalist
+- 39% Ageplayer
+- 19% Vanilla
+- 15% Exhibitionist
+- 10% Switch
+- 9% Masochist
+- 3% Degradee
+- 2% Submissive
+- 2% Girl/Boy
+- 1% Pet
+- 1% Brat
+- 1% Primal (Prey)
+- 1% Slave
+- 1% Rope Bunny
+
+Więcej szczegółowych wyników http://bdsmtest.org/result.php?id=1709009
+
+*Opublikowane: 06/04/2016 [źródło](https://obroza.wordpress.com/2016/04/06/bdsm-test/)*
+
+---
+
+## Jeśli coś kochasz…
+
+> „Jeśli coś kochasz puść to wolno, jeśli wróci jest twoje, jeśli nie, nigdy nie było twoje.”
+> ~P.Coehlo
+
+*Opublikowane: 28/12/2009 [źródło](https://obroza.wordpress.com/2009/12/28/jesli-cos-kochasz/)*
+
+---
+
+## Lekcje
+
+W osobnej sekcji postanowiłem zgromadzić cztery lekcje które dałem wiele lat temu mojej ówczesnej uległej, zadziwiające jest to bardzo są one ponadczasowe.
+
+### Lekcja 1: Twoje imię
+
+Lekcja 1: Twoje imię
+
+> - Ale po co mi imię?
+> - No przecież musisz się jakoś nazywać, ja muszę jakoś do Ciebie mówić.
+> - Ale przecież ja mam imię, mówisz do mnie.
+> - Oczywiście, ale potrzebujesz również drugiego imienia. Imienia, którego nikt poza mną nie będzie znał. Tym imieniem będę Cie nazywał jako swoją… Mam Cie poprowadzić tą drogą, mam Cie stworzyć na nowo, muszę zacząć od nazwania Cie.
+> - Aha, to proszę wymyśl mi takie imię, powiedz jak mam się nazywać.
+> - Nie. To Ty mi zaproponujesz imię dla siebie.
+> - Ja? Ale przecież ja nie wiem, Ty się lepiej znasz.
+> - Oczywiście. Jednak bardzo ważne dla mnie jest żebyś to Ty coś zaproponowała, zagłębiła się w tematykę odnalazła swoje nowe imię. Nie spiesz się mamy czas.
+> - Dobrze, zaproponuje Ci swoje nowe imię.
+
+Jednym z podstawowych celów edukacji uległej jest określenie się jej samej jako uległa. Nawet jeśli deklarowała to już wcześniej, jeśli nikomu nie ulegała możemy to nazwać skłonnościami do uległości. Żeby ulec trzeba mieć komu. W związku z tym oczywiście będziemy się zajmować bardziej przyziemnymi sprawami jak rytuały czy sposoby dawania i otrzymywania przyjemności. Będziemy sobie wprowadzać obowiązki i powinności uległej. Jednak podstawową rzeczą którą muszę Ci wpoić jest Twoje określenie samej siebie jako moja uległa. Takie pełne określenie, świadomość tego kim jesteś (lub na chwilę obecną kim będziesz).
+
+Świadomość. Niedawno w naszej rozmowie padł taki temat. Uznałem tam świadomość tego kim jesteśmy, że pełnimy odpowiednie role i jest między nami specyficzna relacja dominujemy i ulegam. Nadaje głębszy sens temu co robimy fizycznie, zmienia czasem na pozór zwykłe intymne zabawy w coś zupełnie innego. Świadomość tego co robimy i kim jesteśmy odróżnia moje dominowanie nad Tobą od zwyczajnego zaborczego, toksycznego związku. Czyni Twoją uległość nie jakąś nieporadnością życiową i zależnością od kogoś, a świadomym wyborem w drodze do uzyskania przyjemności.
+
+Dlatego najpierw trzeba Cie nazwać, więc czekam na propozycję…
+
+*Opublikowane: 17/12/2012  [źródło](https://obroza.wordpress.com/2012/12/17/lekcja-1-twoje-imie/)*
+
+### Lekcja 2: To czego chcesz
+
+Lekcja 2: To czego chcesz
+
+> - Ale ja nie mam dzisiaj ochoty…
+> - Masz.
+> - Nie rób, proszę Cie. Ja nie chce. Czy nie liczy się to co ja chce
+>
+> … 15 min później i zrobieniu tego co chciałem …
+>
+> - Tak. Liczy się to co Ty chcesz, ale przecież teraz Ty chcesz tego co ja chcę.
+
+Kolejną rzeczą, którą musisz zaakceptować jest poddanie się mojej woli oraz zaufanie mi. Zwykle nam się wydaje, że wiemy wszystko, że czemuś podołamy lub przeciwnie. Ale czasem musimy zrobić coś na co sami się nie zdecydujemy, musimy przekroczyć jakąś granicę której sami nie przekroczymy. Czasem po prostu ktoś musi nas przełamać, pokazać nam coś co się nam może nawet nigdy nie śniło.
+
+Musisz uwierzyć w to, że ja wiem co chcę osiągnąć, że chce dla Ciebie dobrze. Zrobisz ze mną rzeczy które mogą Ci się na początek nie spodobać, mogą Ci się nie podobać w trakcie… zdarzą się rzeczy które nie spodobają Ci się nawet po… Jednak wszystko będzie miało jakiś cel, nie zawsze łatwy do zdefiniowania i wytłumaczenia, nie zawsze ten cel będzie blisko, czasem będzie to zrobione na rzecz tego końcowego nadrzędnego celu. Ale wszystko będzie robione celowo, czasem wynikać to będzie z prostej logiki naszej drogi a czasem będzie pochodzić gdzieś ze środka mojej dominującej natury, tak głębokiego środka, że naprawdę nie ujrzysz w danym momencie sensu tego. Ale wszystko ten sens będzie miało
+
+Nie do wszystkiego będziesz chciała wracać ponownie ale wrócisz jeśli będę chciał, zrobisz to dla mnie, zrobisz wszystko o co Cie poproszę.
+
+Bo wszystko co będę robił będzie miało na celu stworzenie i pogłębianie naszej relacji, czerpanie coraz to większych przyjemności, odkrywanie nowych doznań… a nadrzędnym i ostatecznym celem jest nasze szczęście w byciu razem.
+
+*Opublikowane: 27/12/2012 [źródło](https://obroza.wordpress.com/2012/12/27/lekcja-2-to-czego-chcesz/)*
+
+### Lekcja 3: Żebyś pamiętała
+
+Lekcja 3: Żebyś pamiętała
+
+> - Ale dlaczego to ma tak być? Nie mogę tego zmienić?
+> - Bo ja tak mówię, czy to nie wystarczający argument?
+> - Tak, ale dlaczego? Po co?
+> - Po prostu ja tak chce.
+> - Podoba Ci się tak?
+> - Podoba.
+> - Jak Ci się może to podobać?!
+> - Może, ale to nie jest ważne. Chcę, żeby to tak było. Będzie Ci to cały czas przypominać o tym, że jest to dlatego, że ja tak chcę. To jest ważne. Będzie to tak dopóki nie zrozumiesz, że jesteś dla mnie piękna, jesteś dla mnie piękna taka jak ja chce żebyś była. Jesteś piękna naga, jesteś piękna w samej obroży, jesteś piękna… Będzie tak dopóki sama również nie uznasz, że jesteś piękna taka jaka jesteś, dopóki nie będziesz sama na siebie patrzeć z dumą kiedy stoisz przed lustrem w obroży, mojej obroży.
+
+Ważną sprawą jest zaakceptować siebie również z tego fizycznego punktu. Jak to mówią trzeba polubić samego siebie, tak i to jest również ważne. Jak możemy osiągać pełnie przyjemności i satysfakcji z naszych zabaw jeśli nie lubimy swojego ciała, nie akceptujemy go.
+
+Dodatkowo oczywiście kwestia tego, że nosisz w ten sposób pewien rodzaj piętna, który Ci o mnie przypomina po prostu. Oraz jako, że jest to coś czego nie chcesz przypomina Ci również o tym jak wygląda nasza relacja, o mojej władzy.
+
+Stanowi również pewien punkt przełamania, w normalnym związku nie pozwoliłabyś sobie na to, a już na pewno nie pozwoliłabyś w tym momencie na pewne rzeczy, które u nas już udowodniłem Ci, że się staną.
+
+Jestem z Ciebie zadowolony, podoba mi się Twoja postawa.
+
+*Opublikowane: 07/01/2013 [źródło](https://obroza.wordpress.com/2013/01/07/lekcja-3-zebys-pamietala/)*
+
+### Lekcja 4: Samoświadomość
+
+Na poprzednich lekcjach już o tym pisałem ale jest to tak istotny temat że nigdy za dużo. Nie wiem też czy ten wpis jest lekcją samą w sobie, jest raczej podsumowaniem bardzo długiej lekcji którą Ci dałem. Ważnej lekcji ponieważ udało mi się doprowadzić Cię do podjęcia przez Ciebie pewnych wniosków a nie wkładania Ci ich przeze mnie do głowy. Tym bardziej jestem z tego zadowolony.
+
+Doprowadziłem Cię do świadomości że jednak pewne rzeczy lubisz, że jednak uległość względem odpowiedniej osoby nie jest czymś złym, że poniżenie wobec odpowiedniej osoby również nie jest czymś złym. Ważne jest żeby w przełamywaniu kolejnych granic mieć świadomość tego wzajemnego szacunku i zaufania.
+
+Wiemy oboje jak ważne jest samoświadomość w BDSM. Nieuciekanie od pewnych rzeczy. Wiem, że pewne rozmowy są trudne, wiem że powiedzenie pewnych rzeczy jest jeszcze trudniejsze, nie wspominając już o przyznaniu się do innych. Jednak to jest potrzebne, bardzo potrzebne do osiągnięcia dobrej świadomości samego siebie w tym wszystkim.
+
+Nawet nie wiesz jak ważne i przyjemne są dla mastera momenty kiedy słyszy od swojej uległej, że lubi czuć się ruchana jak suka… I kiedy widzi jak szczere i prawdziwe to jest stwierdzenie. Tak dla takich momentów warto być masterem, warto pracować nad uległą.
+
+PS Jest jeszcze jeden dodatkowy sukces, kiedyś twierdziłaś że czegoś na pewno nie zrobisz… ale te szczegóły zostawię już tylko dla nas…
+
+*Opublikowane: 22/02/2015 [źródło](https://obroza.wordpress.com/2015/02/22/lekcja-4-samoswiadomosc/)*
+
+---
+
 ## Wstęp do BDSM
+
 Rozdział 1: Wstęp do BDSM
+
 ### 1.1 Wstęp
 
 Jeśli to czytasz to w jakimś stopniu interesujesz się BDSM. Możliwe, że jesteś osobą, która wie, że chce zacząć swoją przygodę z BDSM a może jeszcze się wahasz. Spokojnie, ten tekst może ci przybliżyć trochę tą tematykę a nawet pomóc podjąć decyzję czy chcesz iść dalej czy zrezygnować. Później zajmiemy się kolejnymi zagadnieniami i etapami. Na razie czeka nas wiele pytań i trudne odpowiedzi.
