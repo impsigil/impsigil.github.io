@@ -37,6 +37,7 @@ nav:
     - Protokół: protokol.md
     - Rejestr: log.md
     - Archiwalia: archiwum.md
+  - Dziennik zmian: changelog.md
 
 plugins:
   - search
@@ -71,6 +72,7 @@ markdown_extensions:
 
 extra_css:
   - assets/age-gate.css
+  - assets/style.css
 
 extra_javascript:
   - assets/age-gate.js
