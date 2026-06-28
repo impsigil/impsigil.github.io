@@ -30,6 +30,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Podstawy: podstawy.md
+  - Pojęcia: pojecia.md
   - Pozycje: pozycje.md
   - Bezpieczeństwo: bezpieczenstwo.md
   - House of IMP:
@@ -58,6 +60,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - def_list
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
