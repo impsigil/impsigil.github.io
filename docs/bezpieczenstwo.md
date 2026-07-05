@@ -18,6 +18,7 @@ Wiadomo że podczas sceny, zwłaszcza intensywnej, uległa chciałaby się troch
 2. Brak cierpliwości i presja (parcie do przodu).
 3. Brak otwartości na pytania i brak sensownego wyjaśniania wątpliwości osoby uległej.
 4. Polowanie w krzakach - czyli jesteście oboje w jednej społeczności i dana osoba nie jest w niej aktywna jednak zagaduje do was na priv. Tutaj mocno wiąże się to z zieloną flagą rozpoznawalności danej osoby w środowisku.
+5. Oczekiwania finansowe zwłaszcza na samym początu (nie dotyczy komercyjnego BDSM, gdzie płacimy za "usługę")
 
 ## Zielone Flagi
 
