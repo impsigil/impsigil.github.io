@@ -30,14 +30,23 @@ theme:
 
 nav:
   - Home: index.md
+  - Podstawy: podstawy.md
+  - Pojęcia: pojecia.md
   - Pozycje: pozycje.md
+  - Bezpieczeństwo: bezpieczenstwo.md
   - House of IMP:
     - Zasady Domu: manifest.md
+    - Protokół: protokol.md
     - Rejestr: log.md
     - Archiwalia: archiwum.md
+  - Dziennik zmian: changelog.md
 
 plugins:
   - search
+  - git-revision-date-localized:
+      type: date # timeago
+      enable_creation_date: true
+      fallback_to_build_date: true
 
 extra:
   generator: false
@@ -51,6 +60,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - def_list
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
@@ -58,9 +68,14 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.tabbed:
       alternate_style: true
+  - toc:
+      permalink: "#"
+      separator: "_"
+
 
 extra_css:
   - assets/age-gate.css
+  - assets/style.css
 
 extra_javascript:
   - assets/age-gate.js
