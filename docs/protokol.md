@@ -31,3 +31,6 @@ Może zostać uruchomiony podczas:
 - innych okoliczności wymagających pełnego skupienia na rzeczywistości poza relacją.
 
 W tym stanie zawieszamy elementy dynamiki i koncentrujemy się na praktycznych aspektach życia.
+
+!!! info
+    Pozstają jeszcze kolejne protokoły (1, 2, 3, 4) które zostaną opisane później
